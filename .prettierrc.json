@@ -1,0 +1,12 @@
+{
+  "printWidth": 120,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "htmlWhitespaceSensitivity": "ignore",
+  "bracketSameLine": true,
+  "importOrder": ["<TS_TYPES>^[./]", "<THIRD_PARTY_MODULES>", "^@/components/(.*)$", "^@/(.*)$", "^[./]"],
+  "importOrderSortSpecifiers": true,
+  "importOrderSeparation": true
+}
